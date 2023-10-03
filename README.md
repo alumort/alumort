@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alumort
-- 👀 I’m interested in becoming a programmer, frontend for now.
-- 🌱 I’m currently learning CSS and Javascript.
+- 👀 I’m interested in becoming a frontend developer & cybersecurity expert
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on webpages as a frontend developer.
 - 📫 How to reach me: alanissabrinamv@gmail.com
 

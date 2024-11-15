@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alumort
-- 👀 I’m interested in becoming a backend or software developer.
+- 👀 I’m interested in becoming a software tester or developer.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: alanissabrinamv@gmail.com
 

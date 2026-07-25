@@ -70,7 +70,6 @@ Estoy desarrollando un **Sistema de Gestión Comercial** utilizando Django y Doc
 ### Próximos desafíos
 
 - 🌱 Arquitectura Multi-Tenant.
-- 📈 Dashboard con métricas.
 - 🔔 Alertas de stock.
 - 📦 API REST con Django REST Framework.
 - ☁️ Despliegue en producción.

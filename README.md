@@ -40,6 +40,4 @@ I'm currently studying Information Systems Engineering at the National Universit
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=alumort&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/alumort">alumort</a></i></p>
 

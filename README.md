@@ -16,11 +16,6 @@
 I'm a Back-End Developer passionate about building robust, scalable, and maintainable web applications using Python and Django.  
 I'm currently studying Information Systems Engineering at the National University of Lanús (UNLa) while continuously improving my knowledge of software architecture, backend development, APIs, and best development practices.
 
-&nbsp;I'm currently working on **A web-scrapper with django REST**  
-&nbsp;I'm currently learning **Javascript, Kotlin**  
-&nbsp;I'm looking to collaborate on **Open-source projects**  
-&nbsp;Pronouns: **Any**
-
 ### 🛠️ Tech Stack
 
 <p align="left">

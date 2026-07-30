@@ -29,8 +29,8 @@ I'm currently studying Information Systems Engineering at the National Universit
 ### Connect With Me
 
 <p align="left">
-  <a href="mailto:alanissabrinamv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/alanis-sabrina-mihocka-viglietti/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  Email:alanissabrinamv@gmail.com - <a href="https://www.linkedin.com/in/alanis-sabrina-mihocka-viglietti/">Linkedin</a>
+
 </p>
 
 ###  GitHub Stats

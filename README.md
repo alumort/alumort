@@ -29,7 +29,7 @@ I'm currently studying Information Systems Engineering at the National Universit
 ### Connect With Me
 
 <p align="left">
-  Email:alanissabrinamv@gmail.com - <a href="https://www.linkedin.com/in/alanis-sabrina-mihocka-viglietti/">Linkedin</a>
+  Email: alanissabrinamv@gmail.com - <a href="https://www.linkedin.com/in/alanis-sabrina-mihocka-viglietti/">Linkedin</a>
 
 </p>
 

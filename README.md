@@ -14,16 +14,16 @@ Backend Developer focused on Python, Django and REST APIs.
 I build backend systems focused on API design, asynchronous processing, database architecture and scalable application design.
 Currently expanding my stack with FastAPI, AI integrations and Node.js/TypeScript.
 
-###  Tech Stack
+##  Tech Stack
 
-## Backend
+### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
-## Database & Infrastructure
+### Database & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -31,7 +31,7 @@ Currently expanding my stack with FastAPI, AI integrations and Node.js/TypeScrip
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Tools
+### Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />

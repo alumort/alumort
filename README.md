@@ -11,7 +11,6 @@
 ### About Me
 
 Backend Developer focused on Python, Django and REST APIs.
-I build backend systems focused on API design, asynchronous processing, database architecture and scalable application design.
 Currently expanding my stack with FastAPI, AI integrations and Node.js/TypeScript.
 
 ##  Tech Stack
